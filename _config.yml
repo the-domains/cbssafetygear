@@ -1,0 +1,28 @@
+name: CBSSAFETYGEAR
+favicon: null
+layout_spectrum: 0.3397187932860106
+typography_spectrum: 0.11586535722017288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.04900242201983929
+  lightness: 0.429246295010671
+  saturation: 0.3007449477445334
+  rhythmicContrast: 0.3786915522068739
+purpose: []
